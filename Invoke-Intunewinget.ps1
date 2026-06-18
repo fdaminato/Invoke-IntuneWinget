@@ -96,6 +96,10 @@ function Get-LatestWingetPath {
         }
     }
 
+# (\_/)
+# ( • .•)
+# / > 🥕
+
     if (-not $winget -or -not (Test-Path -LiteralPath $winget)) {
         throw 'winget.exe was not found. Install App Installer from the Microsoft Store, then try again.'
     }
