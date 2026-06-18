@@ -38,5 +38,5 @@ git clone https://github.com/fdaminato/Invoke-IntuneWinget.git
 <img width="1268" height="901" alt="image" src="https://github.com/user-attachments/assets/572134f7-7e1c-4f86-9492-27165de16fd2" />
 
 (\_/)
-( •-•)
-/>  💌
+( • .•)
+/ > 🥕
