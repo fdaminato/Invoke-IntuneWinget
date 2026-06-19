@@ -32,9 +32,9 @@ git clone https://github.com/fdaminato/Invoke-IntuneWinget.git
 
 ## 👥 How it works
 
-Search package `
-Select package `
-Generate package `
+Search package```
+Select package```
+Generate package```
 
 ## 🖼️ Screenshot
 
