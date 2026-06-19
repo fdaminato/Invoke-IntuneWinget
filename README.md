@@ -30,7 +30,11 @@ git clone https://github.com/fdaminato/Invoke-IntuneWinget.git
 └── Invoke-Intunewinget.ps1
 ```
 
-## 👥 Contributing
+## 👥 How it works
+
+Search package
+Select package
+Generate package
 
 ## 🖼️ Screenshot
 
